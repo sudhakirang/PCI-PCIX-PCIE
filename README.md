@@ -16,5 +16,3 @@ Logical extension of PCI architecture is PCI-X (PCI eXtended)
 Later PCI-X 2.0 is added wit higher speeds achieving data rate of 4GB/s.
 PCI-X maintained hardware backward compatibility with PCI, it remains parallel bus and inherited the problems
 Speed ceiling, high pin count, motivated the transition away from the parallel bus to the new serial bus model.
-Comparison:
-
